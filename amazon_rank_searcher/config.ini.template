@@ -1,0 +1,15 @@
+[settings]
+max_search_count = 
+
+[base_headers]
+authority = 
+method = 
+scheme = 
+accept = 
+accept-encoding = 
+accept-language = 
+cookie = 
+
+[base_query]
+__mk_de_DE = 
+url = 
